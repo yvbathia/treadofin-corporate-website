@@ -639,7 +639,7 @@ h6 {
 /* Why Us Section
 --------------------------------*/
 
-#why-us {
+#why-us, #vision, #mission{
   padding: 60px 0;
 }
 
